@@ -1,0 +1,5 @@
+commit 40869480f14ee4b4e493b01c9c55c34c17a8f1b7
+Author: Faishal Hakim Nurrahman <2313020258_faishal@mhs.univ.ac.id>
+Date:   Wed Mar 25 21:06:40 2026 +0700
+
+    Catatan: Menentukan peran dalam tim

@@ -1,0 +1,1 @@
+AVOLICIUS adalah sistem informasi manajemen pemesanan produk makanan dan minuman berbasis alpukat yang memudahkan pelanggan dalam melakukan pemesanan secara online serta membantu pengelola mengelola pesanan, stok, dan laporan penjualan secara efisien. 
