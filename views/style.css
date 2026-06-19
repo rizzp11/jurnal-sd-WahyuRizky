@@ -1,0 +1,9 @@
+/* Simulasi aturan warna tampilan dashboard */
+body {
+  color: #333333;
+  background-color: #ffffff;
+}
+.loading-text {
+  color: #ff9900;
+  font-weight: bold;
+}
